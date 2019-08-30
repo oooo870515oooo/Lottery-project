@@ -1,0 +1,53 @@
+﻿  樂透專案.cpp
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(283): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(331): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(380): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(397): warning C4101: 't': 未參考的區域變數
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(461): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(492): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(496): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(504): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(616): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(746): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(748): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(750): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(752): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(754): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(756): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(802): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(807): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(816): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(828): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(846): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(854): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(865): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(876): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(884): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(895): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(921): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(924): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(931): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(937): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(939): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(943): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(950): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(957): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(959): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(961): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(966): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(973): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(981): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(983): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(985): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(987): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(993): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(1000): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(1009): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(1011): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(1013): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(1015): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(1017): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(1024): warning C4018: '<': signed/unsigned 不相符
+c:\users\lin-book\desktop\樂透專案\樂透專案\樂透專案.cpp(1031): warning C4018: '<': signed/unsigned 不相符
+  樂透專案.vcxproj -> C:\Users\lin-book\Desktop\樂透專案\Debug\樂透專案.exe
+  樂透專案.vcxproj -> C:\Users\lin-book\Desktop\樂透專案\Debug\樂透專案.pdb (Full PDB)
